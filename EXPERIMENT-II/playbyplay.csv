@@ -1,0 +1,301 @@
+gameid,period,clock,h_pts,a_pts,team,playerid,player,type,subtype,result,x,y,dist,desc,season
+22500418,3,PT10M00.00S,,,PHX,1631109,M. Williams,Rebound,Unknown,,0.0,0.0,0.0,Williams REBOUND (Off:3 Def:5),2026
+22500438,1,PT04M36.00S,19.0,14.0,HOU,201142,K. Durant,Free Throw,Free Throw 1 of 2,,0.0,0.0,0.0,Durant Free Throw 1 of 2 (8 PTS),2026
+22500396,4,PT00M04.20S,,,CHI,1641824,M. Buzelis,Free Throw,Free Throw 1 of 2,,0.0,0.0,0.0,MISS Buzelis Free Throw 1 of 2,2026
+22500562,2,PT03M58.00S,,,LAL,1629028,D. Ayton,Substitution,,,0.0,0.0,0.0,SUB: Hayes FOR Ayton,2026
+22500835,1,PT04M56.00S,,,NYK,1628384,O. Anunoby,Substitution,,,0.0,0.0,0.0,SUB: Sochan FOR Anunoby,2026
+22500521,1,PT04M45.00S,,,BKN,1642874,D. Wolf,Rebound,Unknown,,0.0,0.0,0.0,Wolf REBOUND (Off:1 Def:0),2026
+22500196,1,PT01M53.00S,,,IND,1630526,J. Robinson-Earl,Missed Shot,Running Layup Shot,Missed,22.0,15.0,3.0,MISS Robinson-Earl 3' Running Layup,2026
+22500641,4,PT04M28.00S,,,OKC,1629652,L. Dort,Rebound,Unknown,,0.0,0.0,0.0,Dort REBOUND (Off:1 Def:1),2026
+22500636,4,PT10M33.00S,89.0,94.0,PHX,1628960,G. Allen,Free Throw,Free Throw 2 of 2,,0.0,0.0,0.0,Allen Free Throw 2 of 2 (16 PTS),2026
+22500102,4,PT09M14.00S,,,PHI,1630178,T. Maxey,Free Throw,Free Throw 2 of 2,,0.0,0.0,0.0,MISS Maxey Free Throw 2 of 2,2026
+22500863,4,PT05M58.00S,,,CHA,1642883,S. James,Substitution,,,0.0,0.0,0.0,SUB: Miller FOR James,2026
+22500436,1,PT05M49.00S,,,MIA,1626181,N. Powell,Missed Shot,Running Layup Shot,Missed,25.0,6.0,3.0,MISS Powell 3' Running Layup,2026
+22501084,4,PT09M49.00S,92.0,83.0,SAC,1642363,N. Clifford,Made Shot,Jump Shot,Made,58.0,248.0,25.0,Clifford 25' 3PT Jump Shot (17 PTS) (Cardwell 1 AST),2026
+22500390,4,PT06M33.00S,,,DET,1629750,J. Green,Rebound,Unknown,,0.0,0.0,0.0,Green REBOUND (Off:0 Def:3),2026
+22500927,1,PT08M39.00S,,,HOU,201142,K. Durant,Rebound,Unknown,,0.0,0.0,0.0,Durant REBOUND (Off:0 Def:1),2026
+22500982,2,PT02M51.00S,,,UTA,1641729,B. Sensabaugh,Substitution,,,0.0,0.0,0.0,SUB: Hinson FOR Sensabaugh,2026
+22501061,3,PT01M42.00S,97.0,77.0,MIL,1627752,T. Prince,Free Throw,Free Throw 1 of 2,,0.0,0.0,0.0,Prince Free Throw 1 of 2 (12 PTS),2026
+22500140,3,PT01M46.00S,,,WAS,1642267,B. Carrington,Rebound,Unknown,,0.0,0.0,0.0,Carrington REBOUND (Off:0 Def:3),2026
+22500771,5,PT00M10.30S,,,IND,1630695,M. Potter,Substitution,,,0.0,0.0,0.0,SUB: Sheppard FOR Potter,2026
+22500709,1,PT06M28.00S,,,LAC,1627739,K. Dunn,Turnover,Bad Pass,,0.0,0.0,0.0,Dunn Bad Pass Turnover (P2.T3),2026
+22500167,4,PT08M08.00S,,,,1610612755,,Timeout,Regular,,0.0,0.0,0.0,76ers Timeout: Regular (Reg.4 Short 0),2026
+22500039,2,PT05M03.00S,51.0,56.0,MIA,1631107,N. Jović,Free Throw,Free Throw 2 of 2,,0.0,0.0,0.0,Jovic Free Throw 2 of 2 (3 PTS),2026
+22500968,2,PT09M30.00S,,,CHI,1630208,N. Richards,Turnover,Traveling,,0.0,0.0,0.0,Richards Traveling Turnover (P1.T5),2026
+22500452,4,PT05M19.00S,92.0,123.0,CHI,1630245,A. Dosunmu,Made Shot,Running Dunk Shot,Made,-2.0,6.0,1.0,Dosunmu 1' Running Dunk (6 PTS),2026
+22500625,1,PT08M19.00S,,,OKC,1629652,L. Dort,Foul,Shooting,,0.0,0.0,0.0,Dort S.FOUL (P1.T1) (M.Lindsay),2026
+22500835,4,PT06M37.00S,,,NYK,1628973,J. Brunson,Free Throw,Free Throw 1 of 2,,0.0,0.0,0.0,MISS Brunson Free Throw 1 of 2,2026
+22500858,3,PT00M00.50S,,,,1610612739,,Rebound,Unknown,,0.0,0.0,0.0,Cavaliers Rebound,2026
+22501152,1,PT04M49.00S,,,MIN,1630245,A. Dosunmu,Substitution,,,0.0,0.0,0.0,SUB: Anderson FOR Dosunmu,2026
+22500573,4,PT01M23.00S,124.0,120.0,UTA,1641718,K. George,Free Throw,Free Throw 1 of 3,,0.0,0.0,0.0,George Free Throw 1 of 3 (21 PTS),2026
+22500638,1,PT00M00.00S,,,,1610612758,,Rebound,Unknown,,0.0,0.0,0.0,Kings Rebound,2026
+22500242,4,PT05M04.00S,,,IND,1629614,A. Nembhard,Missed Shot,Pullup Jump shot,Missed,146.0,121.0,19.0,MISS Nembhard 19' Pullup Jump Shot,2026
+22500113,4,PT01M08.00S,,,SAC,1627734,D. Sabonis,Rebound,Unknown,,0.0,0.0,0.0,Sabonis REBOUND (Off:4 Def:10),2026
+22500542,3,PT00M02.70S,,,MIN,1630162,A. Edwards,Rebound,Unknown,,0.0,0.0,0.0,Edwards REBOUND (Off:1 Def:4),2026
+22501027,3,PT02M58.00S,,,MIA,1630558,D. Mitchell,Substitution,,,0.0,0.0,0.0,SUB: Jakucionis FOR Mitchell,2026
+22501195,4,PT09M45.00S,104.0,94.0,NOP,1642852,D. Queen,Made Shot,Driving Reverse Dunk Shot,Made,2.0,10.0,1.0,Queen 1' Driving Reverse Dunk Shot (25 PTS),2026
+22500265,3,PT10M07.00S,81.0,56.0,MEM,1642907,C. Coward,3pt,Jump Shot,Missed,-164.0,188.0,24.93,MISS C. Coward 24' 3PT,2026
+22501172,1,PT09M18.00S,,,MIA,1642857,K. Jakučionis,Substitution,,,0.0,0.0,0.0,SUB: Jaquez Jr. FOR Jakucionis,2026
+22500119,3,PT08M23.00S,,,DAL,203076,A. Davis,Jump Ball,Coach Challenge,,0.0,0.0,0.0,Jump Ball (CC) Davis vs. Holmgren: Tip to Christie,2026
+22500343,2,PT08M43.00S,,,UTA,1642271,K. Filipowski,Rebound,Unknown,,0.0,0.0,0.0,Filipowski REBOUND (Off:0 Def:1),2026
+22501022,3,PT06M32.00S,,,WAS,1642259,A. Sarr,Missed Shot,Step Back Jump shot,Missed,-6.0,160.0,16.0,MISS Sarr 16' Step Back Jump Shot,2026
+22500640,2,PT04M17.00S,,,MIL,1626167,M. Turner,,,,0.0,0.0,0.0,Turner BLOCK (3 BLK),2026
+22500773,1,PT02M21.00S,,,DAL,1630230,N. Marshall,Free Throw,Free Throw 2 of 2,,0.0,0.0,0.0,MISS Marshall Free Throw 2 of 2,2026
+22500444,4,PT09M29.00S,,,POR,1642270,D. Clingan,Free Throw,Free Throw 1 of 1,,0.0,0.0,0.0,MISS Clingan Free Throw 1 of 1,2026
+22500825,4,PT02M11.00S,,,NYK,1626157,K. Towns,Rebound,Unknown,,0.0,0.0,0.0,Towns REBOUND (Off:4 Def:7),2026
+22500541,2,PT08M57.00S,32.0,35.0,MIL,1628398,K. Kuzma,Free Throw,Free Throw 2 of 2,,0.0,0.0,0.0,Kuzma Free Throw 2 of 2 (2 PTS),2026
+22501006,3,PT01M26.00S,,,,1610612737,,Timeout,Regular,,0.0,0.0,0.0,Hawks Timeout: Regular (Reg.4 Short 0),2026
+22500803,2,PT00M00.10S,,,IND,1642880,K. Jones,Missed Shot,Pullup Jump shot,Missed,190.0,165.0,25.0,MISS Jones 25' 3PT Pullup Jump Shot,2026
+22500714,2,PT05M41.00S,51.0,41.0,MIN,1630183,J. McDaniels,Made Shot,Running Dunk Shot,Made,5.0,4.0,1.0,McDaniels 1' Running Dunk (7 PTS) (Hyland 2 AST),2026
+22500310,2,PT06M43.00S,,,IND,1630526,J. Robinson-Earl,Foul,Personal,,0.0,0.0,0.0,Robinson-Earl P.FOUL (P3.T4) (S.Mehta),2026
+22500944,4,PT01M41.00S,,,POR,1629057,R. Williams III,Rebound,Unknown,,0.0,0.0,0.0,Williams III REBOUND (Off:2 Def:8),2026
+22500198,2,PT02M49.00S,,,LAL,1631222,J. LaRavia,Substitution,,,0.0,0.0,0.0,SUB: Reaves FOR LaRavia,2026
+22500580,2,PT11M32.00S,38.0,25.0,MIA,1641796,P. Larsson,Made Shot,Running Alley Oop Dunk Shot,Made,-23.0,8.0,2.0,Larsson 2' Running Alley Oop Dunk Shot (2 PTS) (Herro 2 AST),2026
+22500155,3,PT00M00.10S,,,,1610612747,,Rebound,Unknown,,0.0,0.0,0.0,LAKERS Rebound,2026
+22501193,2,PT05M49.00S,,,DAL,1642948,R. Nembhard,Substitution,,,0.0,0.0,0.0,SUB: Powell FOR Nembhard,2026
+22500837,2,PT00M52.40S,,,MIA,1641796,P. Larsson,Substitution,,,0.0,0.0,0.0,SUB: Herro FOR Larsson,2026
+22500399,3,PT07M05.00S,,,,1610612759,,Timeout,Regular,,0.0,0.0,0.0,Spurs Timeout: Regular (Reg.3 Short 0),2026
+22501081,3,PT05M31.00S,,,PHX,1630224,J. Green,Foul,Personal,,0.0,0.0,0.0,Green P.FOUL (P1.T1) (R.Mott),2026
+22501053,4,PT06M07.00S,142.0,109.0,CHI,1630581,J. Giddey,Free Throw,Free Throw 2 of 2,,0.0,0.0,0.0,Giddey Free Throw 2 of 2 (23 PTS),2026
+22501162,3,PT00M29.20S,,,MEM,1631351,L. Williamson,Missed Shot,Running Jump Shot,Missed,-176.0,179.0,25.0,MISS Williamson 25' 3PT Running Jump Shot,2026
+22500748,2,PT01M53.00S,,,HOU,1631095,J. Smith Jr.,Rebound,Unknown,,0.0,0.0,0.0,Smith Jr. REBOUND (Off:1 Def:2),2026
+22500039,1,PT09M20.00S,3.0,7.0,NYK,1626157,K. Towns,Made Shot,Pullup Jump shot,Made,-157.0,205.0,26.0,Towns 26' 3PT Pullup Jump Shot (3 PTS) (Robinson 1 AST),2026
+22500420,1,PT05M27.00S,,,ORL,1642869,N. Penda,Missed Shot,Jump Shot,Missed,-234.0,-10.0,0.0,MISS Penda 3PT Jump Shot,2026
+22500310,4,PT08M29.00S,,,CLE,1628378,D. Mitchell,Missed Shot,Step Back Jump shot,Missed,-170.0,192.0,26.0,MISS Mitchell 26' 3PT Step Back Jump Shot,2026
+22501055,1,PT11M42.00S,,,CLE,1628378,D. Mitchell,Rebound,Unknown,,0.0,0.0,0.0,Mitchell REBOUND (Off:0 Def:1),2026
+22501004,3,PT02M18.00S,,,,1610612750,,Rebound,Unknown,,0.0,0.0,0.0,TIMBERWOLVES Rebound,2026
+22500347,4,PT05M42.00S,,,LAC,202695,K. Leonard,Missed Shot,Running Pull-Up Jump Shot,Missed,76.0,249.0,26.0,MISS Leonard 26' 3PT Running Pull-Up Jump Shot,2026
+22500795,3,PT08M12.00S,,,WAS,1641731,B. Coulibaly,Missed Shot,Driving Dunk Shot,Missed,-11.0,15.0,2.0,MISS Coulibaly 2' Driving Dunk,2026
+22500458,3,PT01M32.00S,,,PHI,1641737,A. Bona,,,,0.0,0.0,0.0,Bona BLOCK (1 BLK),2026
+22500076,2,PT01M06.00S,70.0,57.0,DEN,1642461,S. Jones,Made Shot,Running Layup Shot,Made,16.0,20.0,3.0,S. Jones 3' Running Layup (2 PTS) (Jokic 6 AST),2026
+22501008,2,PT03M17.00S,,,CHA,1628970,M. Bridges,Missed Shot,Driving Dunk Shot,Missed,18.0,20.0,3.0,MISS Bridges 3' Driving Dunk,2026
+22500456,2,PT06M59.00S,,,CLE,1629636,D. Garland,Rebound,Unknown,,0.0,0.0,0.0,Garland REBOUND (Off:0 Def:3),2026
+22501230,1,PT00M00.40S,,,,1610612759,,Rebound,Unknown,,0.0,0.0,0.0,Spurs Rebound,2026
+22500653,3,PT07M30.00S,59.0,63.0,TOR,1630567,S. Barnes,Free Throw,Free Throw 2 of 2,,0.0,0.0,0.0,Barnes Free Throw 2 of 2 (8 PTS),2026
+22501172,4,PT05M23.00S,,,WAS,1642364,J. Watkins,Missed Shot,Fadeaway Jump Shot,Missed,72.0,78.0,11.0,MISS Watkins 11' Fadeaway Jumper,2026
+22500120,2,PT03M11.00S,,,,1610612762,,Rebound,Unknown,,0.0,0.0,0.0,JAZZ Rebound,2026
+22500894,3,PT03M25.00S,,,CHA,1642883,S. James,Turnover,Offensive Foul Turnover,,0.0,0.0,0.0,James Offensive Foul Turnover (P1.T3),2026
+22500743,3,PT01M15.00S,80.0,63.0,IND,204456,T. McConnell,Made Shot,Driving Reverse Layup Shot,Made,11.0,-3.0,1.0,McConnell 1' Driving Reverse Layup (4 PTS),2026
+22500842,1,PT03M50.00S,,,OKC,1642382,B. Carlson,Turnover,Lost Ball,,0.0,0.0,0.0,Carlson Lost Ball Turnover (P1.T3),2026
+22500379,4,PT10M32.00S,,,UTA,201567,K. Love,Foul,Shooting,,0.0,0.0,0.0,Love S.FOUL (P3.T1) (G.Petraitis),2026
+22500462,1,PT01M59.00S,,,GSW,1631218,T. Jackson-Davis,Substitution,,,0.0,0.0,0.0,SUB: Post FOR Jackson-Davis,2026
+22500596,2,PT06M12.00S,,,NYK,1629011,M. Robinson,Foul,Shooting,,0.0,0.0,0.0,Robinson S.FOUL (P2.T2) (A.Nagy),2026
+22500117,2,PT00M01.40S,,,NOP,1630530,T. Murphy III,Foul,Shooting,,0.0,0.0,0.0,Murphy III S.FOUL (P2.PN) (M.Kogut),2026
+22500693,4,PT12M00.00S,97.0,79.0,,0,,period,start,,0.0,0.0,0.0,Start of 4th Period (11:00 PM EST),2026
+22500230,4,PT03M31.00S,,,TOR,1642867,C. Murray-Boyles,Turnover,Out of Bounds - Bad Pass Turnover,,0.0,0.0,0.0,Murray-Boyles Out of Bounds - Bad Pass Turnover Turnover (P1.T12),2026
+22500327,2,PT07M36.00S,,,ATL,1628379,L. Kennard,Substitution,,,0.0,0.0,0.0,SUB: Gueye FOR Kennard,2026
+22500754,3,PT11M18.00S,,,PHX,1626220,R. O'Neale,Missed Shot,Jump Shot,Missed,227.0,235.0,33.0,MISS O'Neale 33' 3PT Jump Shot,2026
+22501101,2,PT11M44.00S,,,DET,1628989,K. Huerter,Turnover,Bad Pass,,0.0,0.0,0.0,Huerter Bad Pass Turnover (P1.T7),2026
+22500848,3,PT00M00.70S,,,,0,,Heave,Team Field Goal Attempt,,0.0,0.0,0.0,PACERS Heave,2026
+22501024,3,PT01M38.00S,,,ORL,1642869,N. Penda,Missed Shot,Driving Bank Hook Shot,Missed,45.0,17.0,5.0,MISS Penda 5' Driving Bank Hook Shot,2026
+22500533,4,PT05M24.00S,,,ORL,1642869,N. Penda,Rebound,Unknown,,0.0,0.0,0.0,Penda REBOUND (Off:3 Def:4),2026
+22500173,2,PT11M19.00S,21.0,25.0,IND,1630643,J. Huff,Made Shot,Jump Shot,Made,-135.0,256.0,29.0,Huff 29' 3PT Jump Shot (3 PTS) (Peter 1 AST),2026
+22500533,2,PT02M41.00S,,,PHI,203083,A. Drummond,Substitution,,,0.0,0.0,0.0,SUB: Embiid FOR Drummond,2026
+22500862,2,PT06M39.00S,,,OKC,1630198,I. Joe,Substitution,,,0.0,0.0,0.0,SUB: Holmgren FOR Joe,2026
+22500688,3,PT08M02.00S,,,WAS,1642259,A. Sarr,Missed Shot,Driving Layup Shot,Missed,7.0,34.0,3.0,MISS Sarr 3' Driving Layup,2026
+22500966,3,PT01M34.00S,,,MIN,1630162,A. Edwards,Substitution,,,0.0,0.0,0.0,SUB: Hyland FOR Edwards,2026
+22501031,2,PT02M34.00S,,,PHX,1642863,K. Maluach,Missed Shot,Hook Shot,Missed,-5.0,89.0,9.0,MISS Maluach 9' Hook Shot,2026
+22500960,1,PT01M29.00S,,,LAL,1631166,D. Timme,Rebound,Unknown,,0.0,0.0,0.0,Timme REBOUND (Off:1 Def:1),2026
+22500254,1,PT09M41.00S,,,,1610612756,,Rebound,Unknown,,0.0,0.0,0.0,Suns Rebound,2026
+22501028,2,PT05M29.00S,,,SAS,1642844,D. Harper,Foul,Loose Ball,,0.0,0.0,0.0,Harper L.B.FOUL (P2.T2) (S.Twardoski),2026
+22500583,3,PT09M36.00S,,,DAL,1630702,J. Hardy,Missed Shot,Jump Shot,Missed,229.0,18.0,0.0,MISS Hardy 3PT Jump Shot,2026
+22500454,1,PT03M57.00S,,,NOP,1642852,D. Queen,Rebound,Unknown,,0.0,0.0,0.0,Queen REBOUND (Off:1 Def:4),2026
+22501099,4,PT04M24.00S,,,PHX,1628415,D. Brooks,Missed Shot,Jump Shot,Missed,80.0,241.0,25.0,MISS Brooks 25' 3PT Jump Shot,2026
+22500758,3,PT03M58.00S,,,WAS,1641731,B. Coulibaly,Rebound,Unknown,,0.0,0.0,0.0,Coulibaly REBOUND (Off:0 Def:3),2026
+22500003,1,PT07M35.00S,12.0,10.0,NYK,1626157,K. Towns,Made Shot,Cutting Dunk Shot,Made,-11.0,5.0,1.0,Towns 1' Cutting Dunk Shot (4 PTS) (Hukporti 1 AST),2026
+22500876,2,PT01M59.00S,,,,1610612760,,Rebound,Unknown,,0.0,0.0,0.0,Thunder Rebound,2026
+22500441,3,PT11M21.00S,,,GSW,203110,D. Green,Missed Shot,Jump Shot,Missed,-186.0,187.0,26.0,MISS Green 26' 3PT Jump Shot,2026
+22500190,1,PT08M10.00S,5.0,12.0,PHX,1628960,G. Allen,Made Shot,Driving Floating Jump Shot,Made,-59.0,42.0,7.0,Allen 7' Driving Floating Jump Shot (5 PTS) (Booker 1 AST),2026
+22500797,3,PT00M26.70S,,,TOR,1642347,J. Shead,Foul,Personal,,0.0,0.0,0.0,Shead P.FOUL (P2.PN) (G.Petraitis),2026
+22500383,3,PT07M50.00S,,,ATL,1630552,J. Johnson,Missed Shot,Turnaround Jump Shot,Missed,62.0,77.0,10.0,MISS Johnson 10' Turnaround Jump Shot,2026
+22500005,2,PT07M48.00S,,,IND,1630543,I. Jackson,Foul,Offensive,,0.0,0.0,0.0,Jackson OFF.Foul (P3) (J.DeRosa),2026
+22500204,1,PT10M59.00S,,,PHX,1628960,G. Allen,Rebound,Unknown,,0.0,0.0,0.0,Allen REBOUND (Off:0 Def:1),2026
+22500459,1,PT08M33.00S,,,,1610612738,,Timeout,Regular,,0.0,0.0,0.0,Celtics Timeout: Regular (Reg.1 Short 0),2026
+22500093,2,PT00M00.00S,56.0,63.0,,0,,period,end,,0.0,0.0,0.0,End of 2nd Period (9:28 PM EST),2026
+22500853,1,PT02M55.00S,,,POR,201950,J. Holiday,Substitution,,,0.0,0.0,0.0,SUB: Henderson FOR Holiday,2026
+22500053,4,PT05M27.00S,,,PHX,1631109,M. Williams,Rebound,Unknown,,0.0,0.0,0.0,Williams REBOUND (Off:3 Def:5),2026
+22500033,4,PT04M46.00S,111.0,99.0,MIA,1641796,P. Larsson,Made Shot,Driving Floating Jump Shot,Made,10.0,69.0,7.0,Larsson 7' Driving Floating Jump Shot (17 PTS) (Powell 2 AST),2026
+22500749,2,PT07M29.00S,,,SAS,1642868,C. Bryant,Missed Shot,Jump Shot,Missed,-233.0,27.0,0.0,MISS Bryant 3PT Jump Shot,2026
+22501060,4,PT06M44.00S,93.0,90.0,GSW,1642954,W. Richard,Made Shot,Running Jump Shot,Made,112.0,237.0,26.0,Richard 26' 3PT Running Jump Shot (3 PTS) (Podziemski 4 AST),2026
+22500548,2,PT08M48.00S,,,NOP,1629627,Z. Williamson,Rebound,Unknown,,0.0,0.0,0.0,Williamson REBOUND (Off:0 Def:1),2026
+22500940,4,PT06M03.00S,,,HOU,1630578,A. Sengun,Missed Shot,Hook Shot,Missed,4.0,83.0,8.0,MISS Sengun 8' Hook Shot,2026
+22500443,3,PT02M31.00S,78.0,86.0,MEM,1628991,J. Jackson Jr.,Made Shot,Floating Jump shot,Made,18.0,17.0,2.0,Jackson Jr. 2' Floating Jump Shot (23 PTS) (Spencer 4 AST),2026
+22500299,1,PT09M11.00S,,,,1610612743,,Timeout,Regular,,0.0,0.0,0.0,Nuggets Timeout: Regular (Reg.1 Short 0),2026
+22500110,2,PT07M01.00S,,,MIN,1629675,N. Reid,Foul,Offensive,,0.0,0.0,0.0,Reid OFF.Foul (P1) (J.Conley),2026
+22501068,1,PT12M00.00S,0.0,0.0,,0,,period,start,,0.0,0.0,0.0,Start of 1st Period (7:41 PM EST),2026
+22500859,1,PT00M57.10S,,,BOS,202696,N. Vučević,Rebound,Unknown,,0.0,0.0,0.0,Vucevic REBOUND (Off:1 Def:4),2026
+22500300,4,PT05M28.00S,,,LAC,1641738,K. Brown,Substitution,,,0.0,0.0,0.0,SUB: Collins FOR Brown,2026
+22500307,4,PT02M25.00S,,,MEM,1642907,C. Coward,Rebound,Unknown,,0.0,0.0,0.0,Coward REBOUND (Off:1 Def:4),2026
+22500874,3,PT08M40.00S,,,PHI,1631230,D. Barlow,Missed Shot,Tip Layup Shot,Missed,0.0,0.0,0.0,MISS Barlow Tip Layup Shot,2026
+22500451,4,PT08M20.00S,,,ORL,1628976,W. Carter Jr.,Turnover,Offensive Foul Turnover,,0.0,0.0,0.0,Carter Jr. Offensive Foul Turnover (P1.T7),2026
+22500512,2,PT07M38.00S,,,SAS,1628368,D. Fox,Substitution,,,0.0,0.0,0.0,SUB: Kornet FOR Fox,2026
+22501194,1,PT06M22.00S,14.0,13.0,HOU,1631106,T. Eason,Made Shot,Driving Finger Roll Layup Shot,Made,-18.0,17.0,2.0,Eason 2' Driving Finger Roll Layup (4 PTS),2026
+22500210,1,PT06M11.00S,,,OKC,1631096,C. Holmgren,,,,0.0,0.0,0.0,Holmgren BLOCK (1 BLK),2026
+22500493,4,PT06M28.00S,107.0,126.0,LAC,1627826,I. Zubac,Made Shot,Finger Roll Layup Shot,Made,-45.0,3.0,5.0,Zubac 5' Finger Roll Layup (4 PTS) (Dunn 6 AST),2026
+22500255,2,PT04M48.00S,,,CLE,1628366,L. Ball,,,,0.0,0.0,0.0,Ball STEAL (1 STL),2026
+22501123,4,PT02M44.00S,129.0,89.0,NYK,1630574,A. Hukporti,Made Shot,Hook Shot,Made,-11.0,53.0,5.0,Hukporti 5' Hook Shot (4 PTS) (Diawara 1 AST),2026
+22500495,2,PT00M14.80S,67.0,58.0,IND,1641767,B. Sheppard,Made Shot,Pullup Jump shot,Made,243.0,41.0,25.0,Sheppard 25' 3PT Pullup Jump Shot (3 PTS) (Nesmith 2 AST),2026
+22500123,4,PT01M53.00S,,,WAS,203468,C. McCollum,Missed Shot,Pullup Jump shot,Missed,-53.0,199.0,21.0,MISS McCollum 21' Pullup Jump Shot,2026
+22500232,3,PT11M43.00S,,,DEN,203999,N. Jokić,Rebound,Unknown,,0.0,0.0,0.0,Jokic REBOUND (Off:1 Def:6),2026
+22500706,3,PT02M05.00S,83.0,78.0,TOR,1630572,S. Mamukelashvili,Made Shot,Running Jump Shot,Made,-167.0,207.0,27.0,Mamukelashvili 27' 3PT Running Jump Shot (16 PTS) (Barnes 4 AST),2026
+22501162,2,PT03M26.00S,,,DEN,203999,N. Jokić,Turnover,Out of Bounds - Bad Pass Turnover,,0.0,0.0,0.0,Jokic Out of Bounds - Bad Pass Turnover Turnover (P1.T7),2026
+22500199,2,PT07M44.00S,,,DET,1630595,C. Cunningham,Missed Shot,Fadeaway Jump Shot,Missed,-12.0,117.0,12.0,MISS Cunningham 12' Fadeaway Jumper,2026
+22500807,4,PT09M10.00S,,,MIL,1626171,B. Portis,Foul,Shooting,,0.0,0.0,0.0,Portis S.FOUL (P2.T1) (J.Goldenberg),2026
+22501216,2,PT08M34.00S,38.0,37.0,WAS,1642860,W. Riley,Made Shot,Putback Layup Shot,Made,-27.0,25.0,4.0,Riley 4' Putback Layup (4 PTS),2026
+22500651,4,PT04M51.00S,,,MEM,1641713,G. Jackson,Substitution,,,0.0,0.0,0.0,SUB: Prosper FOR Jackson,2026
+22500149,4,PT03M50.00S,,,PHI,1642348,J. Edwards,,,,0.0,0.0,0.0,Edwards STEAL (1 STL),2026
+22500085,1,PT01M46.00S,,,MEM,203484,K. Caldwell-Pope,Substitution,,,0.0,0.0,0.0,SUB: Wells FOR Caldwell-Pope,2026
+22500865,4,PT09M44.00S,94.0,106.0,TOR,1629628,R. Barrett,Made Shot,Driving Layup Shot,Made,-15.0,3.0,2.0,Barrett 2' Driving Layup (14 PTS),2026
+22500128,2,PT06M44.00S,51.0,47.0,BOS,1627759,J. Brown,Made Shot,Jump Shot,Made,-159.0,215.0,27.0,Brown 27' 3PT Jump Shot (7 PTS) (Simons 2 AST),2026
+22500139,3,PT04M33.00S,,,,1610612744,,Rebound,Unknown,,0.0,0.0,0.0,Warriors Rebound,2026
+22501180,1,PT11M24.00S,2.0,2.0,DAL,1631108,M. Christie,Made Shot,Driving Floating Jump Shot,Made,10.0,74.0,7.0,Christie 7' Driving Floating Jump Shot (2 PTS) (Bagley III 1 AST),2026
+22500649,2,PT10M17.00S,,,MIA,1642066,M. Gardner,Foul,Personal,,0.0,0.0,0.0,Gardner P.FOUL (P1.T1) (D.Collins),2026
+22501151,4,PT09M24.00S,,,MIA,1641796,P. Larsson,Rebound,Unknown,,0.0,0.0,0.0,Larsson REBOUND (Off:0 Def:3),2026
+22500403,4,PT01M43.00S,,,BOS,1627759,J. Brown,Turnover,Bad Pass,,0.0,0.0,0.0,Brown Bad Pass Turnover (P2.T13),2026
+22500588,4,PT05M01.00S,116.0,106.0,NOP,1629627,Z. Williamson,Free Throw,Free Throw 1 of 2,,0.0,0.0,0.0,Williamson Free Throw 1 of 2 (26 PTS),2026
+22501223,4,PT04M38.00S,91.0,97.0,NOP,1630530,T. Murphy III,Free Throw,Free Throw 1 of 2,,0.0,0.0,0.0,Murphy III Free Throw 1 of 2 (19 PTS),2026
+22500851,4,PT08M56.00S,,,BKN,1642849,N. Traore,Missed Shot,Driving Floating Jump Shot,Missed,62.0,88.0,11.0,MISS Traore 11' Driving Floating Jump Shot,2026
+22500845,2,PT00M32.90S,,,HOU,1642263,R. Sheppard,,,,0.0,0.0,0.0,Sheppard STEAL (1 STL),2026
+22501117,1,PT03M21.00S,,,GSW,1643018,L. Cryer,Substitution,,,0.0,0.0,0.0,SUB: Payton II FOR Cryer,2026
+22500414,1,PT06M11.00S,7.0,16.0,MIA,203952,A. Wiggins,Made Shot,Driving Floating Jump Shot,Made,-93.0,7.0,9.0,Wiggins 9' Driving Floating Jump Shot (2 PTS) (Mitchell 1 AST),2026
+22501075,1,PT01M51.00S,,,LAL,1628379,L. Kennard,Rebound,Unknown,,0.0,0.0,0.0,Kennard REBOUND (Off:0 Def:1),2026
+22500023,1,PT05M49.00S,,,CHI,1641824,M. Buzelis,Foul,Shooting,,0.0,0.0,0.0,Buzelis S.FOUL (P1.T2) (A.Nagy),2026
+22500266,3,PT06M56.00S,,,PHI,1631230,D. Barlow,Rebound,Unknown,,0.0,0.0,0.0,Barlow REBOUND (Off:0 Def:2),2026
+22500964,3,PT06M43.00S,,,HOU,1627827,D. Finney-Smith,,,,0.0,0.0,0.0,Finney-Smith BLOCK (1 BLK),2026
+22500318,1,PT06M53.00S,,,PHI,1631230,D. Barlow,Foul,Shooting,,0.0,0.0,0.0,Barlow S.FOUL (P1.T3) (N.Sago),2026
+22500647,2,PT07M49.00S,,,BOS,1627759,J. Brown,Rebound,Unknown,,0.0,0.0,0.0,Brown REBOUND (Off:0 Def:1),2026
+22500470,2,PT07M28.00S,,,OKC,1631114,J. Williams,Missed Shot,Driving Layup Shot,Missed,-23.0,6.0,2.0,MISS J. Williams 2' Driving Layup,2026
+22500637,2,PT08M50.00S,,,BOS,1629674,N. Queta,Rebound,Unknown,,0.0,0.0,0.0,Queta REBOUND (Off:1 Def:0),2026
+22500074,2,PT02M10.00S,,,MIL,1631260,A. Green,Foul,Shooting,,0.0,0.0,0.0,Green S.FOUL (P2.PN) (M.Smith),2026
+22500002,3,PT05M56.00S,,,GSW,203110,D. Green,Substitution,,,0.0,0.0,0.0,SUB: Horford FOR Green,2026
+22500828,2,PT08M31.00S,,,DET,1641842,R. Holland II,Rebound,Unknown,,0.0,0.0,0.0,Holland II REBOUND (Off:0 Def:6),2026
+22500323,3,PT08M39.00S,,,,1610612760,,Rebound,Normal Rebound,,0.0,0.0,0.0,Thunder Rebound,2026
+22500803,3,PT07M00.00S,,,WAS,1630551,J. Champagnie,Substitution,,,0.0,0.0,0.0,SUB: Riley FOR Champagnie,2026
+22500188,1,PT03M00.00S,,,NOP,1641722,J. Hawkins,Turnover,Lost Ball,,0.0,0.0,0.0,Hawkins Lost Ball Turnover (P1.T4),2026
+22500883,1,PT06M07.00S,,,CHA,1628970,M. Bridges,Missed Shot,Driving Floating Jump Shot,Missed,-5.0,52.0,5.0,MISS Bridges 5' Driving Floating Jump Shot,2026
+22500850,3,PT09M04.00S,,,WAS,1642267,B. Carrington,Foul,Personal,,0.0,0.0,0.0,Carrington P.FOUL (P3.T3) (B.Maru),2026
+22500124,1,PT00M53.20S,,,MIA,1631170,J. Jaquez Jr.,Rebound,Unknown,,0.0,0.0,0.0,Jaquez Jr. REBOUND (Off:0 Def:1),2026
+22500768,3,PT00M29.60S,,,,1610612763,,Timeout,Regular,,0.0,0.0,0.0,Grizzlies Timeout: Regular (Reg.3 Short 0),2026
+22501003,3,PT02M40.00S,87.0,93.0,NYK,1629013,L. Shamet,Made Shot,Jump Shot,Made,-222.0,9.0,0.0,Shamet 3PT Jump Shot (13 PTS) (Kolek 6 AST),2026
+22500596,4,PT07M02.00S,,,NYK,1629011,M. Robinson,Foul,Shooting,,0.0,0.0,0.0,Robinson S.FOUL (P3.T1) (S.Mehta),2026
+22500086,4,PT11M00.00S,,,MIL,1630175,C. Anthony,Turnover,Out of Bounds - Bad Pass Turnover,,0.0,0.0,0.0,Anthony Out of Bounds - Bad Pass Turnover Turnover (P1.T7),2026
+22500443,4,PT11M49.00S,,,WAS,1630551,J. Champagnie,Violation,Kicked Ball,,0.0,0.0,0.0,Champagnie Violation:Kicked Ball (R.Acosta),2026
+22500150,1,PT01M07.00S,,,UTA,1642846,A. Bailey,Missed Shot,Jump Shot,Missed,134.0,228.0,26.0,MISS Bailey 26' 3PT Jump Shot,2026
+22500244,3,PT08M23.00S,,,MIA,1630558,D. Mitchell,Turnover,Lost Ball,,0.0,0.0,0.0,Mitchell Lost Ball Turnover (P3.T6),2026
+22500124,2,PT10M52.00S,,,CHA,1628970,M. Bridges,Foul,Shooting,,0.0,0.0,0.0,Bridges S.FOUL (P1.T1) (B.Adair),2026
+22500062,2,PT08M49.00S,,,MIL,1631157,R. Rollins,Rebound,Unknown,,0.0,0.0,0.0,Rollins REBOUND (Off:0 Def:2),2026
+22500030,2,PT04M57.00S,,,ATL,1630249,V. Krejčí,Foul,Shooting,,0.0,0.0,0.0,Krejci S.FOUL (P1.T2) (S.Twardoski),2026
+22501023,4,PT01M20.00S,,,CHA,1630182,J. Green,Missed Shot,Jump Shot,Missed,-225.0,17.0,0.0,MISS Green 3PT Jump Shot,2026
+22500378,3,PT04M45.00S,,,PHX,1626220,R. O'Neale,Substitution,,,0.0,0.0,0.0,SUB: Dunn FOR O'Neale,2026
+22501061,3,PT00M30.20S,,,MIL,1631250,P. Nance,Missed Shot,Jump Shot,Missed,-69.0,256.0,27.0,MISS Nance 27' 3PT Jump Shot,2026
+22500072,3,PT00M00.30S,,,ORL,1641710,A. Black,Missed Shot,Layup Shot,Missed,15.0,27.0,3.0,MISS Black 3' Layup,2026
+22500993,4,PT02M37.00S,,,DET,1631105,J. Duren,Rebound,Unknown,,0.0,0.0,0.0,Duren REBOUND (Off:3 Def:8),2026
+22500858,3,PT07M11.00S,,,CLE,203471,D. Schröder,Turnover,Lost Ball,,0.0,0.0,0.0,Schroder Lost Ball Turnover (P3.T9),2026
+22500093,4,PT09M40.00S,,,DET,1630194,P. Reed,Substitution,,,0.0,0.0,0.0,SUB: Stewart FOR Reed,2026
+22500527,4,PT02M16.00S,,,HOU,201142,K. Durant,Missed Shot,Jump Shot,Missed,180.0,174.0,25.0,MISS Durant 25' 3PT Jump Shot,2026
+22500860,2,PT06M31.00S,,,NYK,1628969,M. Bridges,Substitution,,,0.0,0.0,0.0,SUB: Brunson FOR Bridges,2026
+22500624,2,PT06M10.00S,,,DET,1630191,I. Stewart,Missed Shot,Jump Shot,Missed,114.0,246.0,27.0,MISS Stewart 27' 3PT Jump Shot,2026
+22500304,3,PT10M24.00S,64.0,60.0,PHI,203954,J. Embiid,Made Shot,Reverse Layup Shot,Made,9.0,22.0,2.0,Embiid 2' Reverse Layup (15 PTS) (Maxey 6 AST),2026
+22500294,2,PT07M46.00S,,,CHA,1628970,M. Bridges,Missed Shot,Driving Dunk Shot,Missed,-2.0,16.0,2.0,MISS Bridges 2' Driving Dunk,2026
+22501032,4,PT06M57.00S,,,DEN,1642461,S. Jones,Substitution,,,0.0,0.0,0.0,SUB: Gordon FOR S. Jones,2026
+22500958,4,PT11M35.00S,107.0,94.0,SAS,1630170,D. Vassell,Free Throw,Free Throw 1 of 2,,0.0,0.0,0.0,Vassell Free Throw 1 of 2 (18 PTS),2026
+22500756,2,PT02M50.00S,,,CLE,1630241,S. Merrill,Turnover,Bad Pass,,0.0,0.0,0.0,Merrill Bad Pass Turnover (P1.T5),2026
+22500064,4,PT00M26.80S,,,MIN,203497,R. Gobert,Substitution,,,0.0,0.0,0.0,SUB: Conley FOR Gobert,2026
+22500962,4,PT01M18.00S,90.0,99.0,NYK,1628973,J. Brunson,Free Throw,Free Throw 2 of 2,,0.0,0.0,0.0,Brunson Free Throw 2 of 2 (29 PTS),2026
+22500696,4,PT11M25.00S,98.0,108.0,GSW,1627741,B. Hield,Made Shot,Jump Shot,Made,-235.0,-8.0,24.0,Hield 24' 3PT Jump Shot (3 PTS) (Spencer 1 AST),2026
+22500276,1,PT03M11.00S,,,ATL,1630168,O. Okongwu,Rebound,Unknown,,0.0,0.0,0.0,Okongwu REBOUND (Off:0 Def:1),2026
+22501162,1,PT01M04.00S,35.0,27.0,DEN,203999,N. Jokić,Made Shot,Putback Layup Shot,Made,0.0,0.0,0.0,Jokic Putback Layup (10 PTS),2026
+22500883,3,PT04M20.00S,,,CHA,1628970,M. Bridges,Substitution,,,0.0,0.0,0.0,SUB: Williams FOR Bridges,2026
+22500416,3,PT01M16.00S,81.0,76.0,MIN,203497,R. Gobert,Free Throw,Free Throw Flagrant 1 of 2,,0.0,0.0,0.0,Gobert Free Throw Flagrant 1 of 2 (9 PTS),2026
+22500756,2,PT04M48.00S,,,CLE,1630241,S. Merrill,Missed Shot,Jump Shot,Missed,-185.0,162.0,25.0,MISS Merrill 25' 3PT Jump Shot,2026
+22501116,2,PT09M48.00S,,,LAL,2544,L. James,Missed Shot,Pullup Jump shot,Missed,-221.0,142.0,26.0,MISS L. James 26' 3PT Pullup Jump Shot,2026
+22500527,4,PT07M30.00S,,,HOU,1631106,T. Eason,Missed Shot,Jump Shot,Missed,232.0,32.0,0.0,MISS Eason 3PT Jump Shot,2026
+22500684,2,PT11M16.00S,30.0,31.0,BKN,1630592,J. Wilson,Made Shot,Pullup Jump shot,Made,-227.0,3.0,0.0,Wilson 3PT Pullup Jump Shot (3 PTS),2026
+22500857,1,PT00M47.00S,27.0,29.0,LAC,1642949,Y. Niederhäuser,Free Throw,Free Throw 2 of 2,,0.0,0.0,0.0,Niederhauser Free Throw 2 of 2 (6 PTS),2026
+22500532,3,PT08M43.00S,,,TOR,1630572,S. Mamukelashvili,Substitution,,,0.0,0.0,0.0,SUB: Shead FOR Mamukelashvili,2026
+22500065,5,PT03M32.00S,,,MEM,1642907,C. Coward,Rebound,Unknown,,0.0,0.0,0.0,Coward REBOUND (Off:1 Def:8),2026
+22501012,4,PT02M11.00S,103.0,97.0,NOP,1630530,T. Murphy III,Free Throw,Free Throw 1 of 2,,0.0,0.0,0.0,Murphy III Free Throw 1 of 2 (26 PTS),2026
+22500211,3,PT01M00.00S,112.0,88.0,UTA,1628374,L. Markkanen,Free Throw,Free Throw 1 of 2,,0.0,0.0,0.0,Markkanen Free Throw 1 of 2 (32 PTS),2026
+22500265,3,PT11M10.00S,81.0,50.0,MEM,1642377,J. Wells,3pt,Jump Shot,Made,-163.0,188.0,24.85,J. Wells 24' 3PT  (9 PTS) (S. Aldama 2 AST),2026
+22500023,4,PT09M28.00S,,,NYK,1628384,O. Anunoby,Free Throw,Free Throw 2 of 2,,0.0,0.0,0.0,MISS Anunoby Free Throw 2 of 2,2026
+22500302,3,PT05M15.00S,,,BOS,1627759,J. Brown,Rebound,Unknown,,0.0,0.0,0.0,Brown REBOUND (Off:1 Def:10),2026
+22501155,3,PT09M52.00S,,,LAL,1629028,D. Ayton,Rebound,Unknown,,0.0,0.0,0.0,Ayton REBOUND (Off:1 Def:1),2026
+22500404,4,PT10M44.00S,83.0,92.0,DAL,1630702,J. Hardy,Free Throw,Free Throw 2 of 2,,0.0,0.0,0.0,Hardy Free Throw 2 of 2 (4 PTS),2026
+22500289,2,PT07M10.00S,52.0,32.0,NOP,1631121,B. McGowens,Made Shot,Driving Layup Shot,Made,0.0,11.0,1.0,McGowens 1' Driving Layup (6 PTS),2026
+22500278,2,PT03M15.00S,,,LAC,1627739,K. Dunn,Rebound,Unknown,,0.0,0.0,0.0,Dunn REBOUND (Off:1 Def:1),2026
+22500430,3,PT04M05.00S,,,UTA,201567,K. Love,Rebound,Unknown,,0.0,0.0,0.0,Love REBOUND (Off:2 Def:3),2026
+22500588,4,PT02M35.00S,,,NOP,1630530,T. Murphy III,Rebound,Unknown,,0.0,0.0,0.0,Murphy III REBOUND (Off:1 Def:3),2026
+22500368,2,PT05M31.00S,,,MEM,203484,K. Caldwell-Pope,Missed Shot,Pullup Jump shot,Missed,56.0,156.0,17.0,MISS Caldwell-Pope 17' Pullup Jump Shot,2026
+22500877,2,PT05M58.00S,62.0,48.0,LAC,1628381,J. Collins,Made Shot,Jump Shot,Made,-154.0,211.0,26.0,Collins 26' 3PT Jump Shot (11 PTS) (Miller 3 AST),2026
+22500461,2,PT09M52.00S,,,LAC,202695,K. Leonard,Free Throw,Free Throw 2 of 2,,0.0,0.0,0.0,MISS Leonard Free Throw 2 of 2,2026
+22500301,3,PT09M59.00S,,,UTA,1628374,L. Markkanen,Rebound,Unknown,,0.0,0.0,0.0,Markkanen REBOUND (Off:1 Def:4),2026
+22500654,2,PT02M45.00S,,,,1610612740,,Timeout,Regular,,0.0,0.0,0.0,Pelicans Timeout: Regular (Reg.2 Short 0),2026
+22501065,3,PT04M07.00S,83.0,78.0,ORL,1629048,G. Bitadze,Made Shot,Alley Oop Dunk Shot,Made,25.0,10.0,3.0,Bitadze 3' Alley Oop Dunk (4 PTS) (da Silva 1 AST),2026
+22500262,1,PT08M31.00S,,,NYK,1628969,M. Bridges,Rebound,Unknown,,0.0,0.0,0.0,Bridges REBOUND (Off:1 Def:1),2026
+22500978,3,PT02M07.00S,,,,1610612765,,Rebound,Unknown,,0.0,0.0,0.0,Pistons Rebound,2026
+22500248,4,PT04M06.00S,,,DEN,1629661,C. Johnson,Rebound,Unknown,,0.0,0.0,0.0,Johnson REBOUND (Off:2 Def:2),2026
+22500465,2,PT09M22.00S,46.0,28.0,PHX,1631109,M. Williams,Free Throw,Free Throw 2 of 2,,0.0,0.0,0.0,Williams Free Throw 2 of 2 (2 PTS),2026
+22500289,3,PT05M00.00S,,,NOP,1630180,S. Bey,Substitution,,,0.0,0.0,0.0,SUB: McGowens FOR Bey,2026
+22500812,3,PT03M54.00S,81.0,83.0,PHI,1626162,K. Oubre Jr.,Free Throw,Free Throw 1 of 2,,0.0,0.0,0.0,Oubre Jr. Free Throw 1 of 2 (18 PTS),2026
+22500981,2,PT09M58.00S,,,NYK,1628969,M. Bridges,Substitution,,,0.0,0.0,0.0,SUB: Clarkson FOR Bridges,2026
+22501230,2,PT06M57.00S,39.0,29.0,OKC,1641717,C. Wallace,Made Shot,Running Layup Shot,Made,34.0,37.0,5.0,Wallace 5' Running Layup (4 PTS),2026
+22500463,3,PT06M52.00S,,,ATL,204001,K. Porziņģis,Missed Shot,Pullup Jump shot,Missed,83.0,157.0,18.0,MISS Porzingis 18' Pullup Jump Shot,2026
+22500097,4,PT00M00.00S,139.0,119.0,,0,,period,end,,0.0,0.0,0.0,End of 4th Period (12:35 AM EST),2026
+22500424,2,PT00M15.90S,,,ORL,1628976,W. Carter Jr.,Substitution,,,0.0,0.0,0.0,SUB: Cain FOR Carter Jr.,2026
+22501091,4,PT09M11.00S,,,MIA,1631170,J. Jaquez Jr.,Rebound,Unknown,,0.0,0.0,0.0,Jaquez Jr. REBOUND (Off:2 Def:3),2026
+22500767,4,PT01M47.00S,,,,1610612739,,Timeout,Regular,,0.0,0.0,0.0,Cavaliers Timeout: Regular (Reg.5 Short 0),2026
+22500733,3,PT00M00.30S,,,,0,,Heave,Team Field Goal Attempt,,0.0,0.0,0.0,PISTONS Heave,2026
+22501136,1,PT06M43.00S,,,IND,1642880,K. Jones,Missed Shot,Jump Shot,Missed,59.0,-5.0,6.0,MISS Jones 6' Jump Shot,2026
+22500224,1,PT02M58.00S,,,DEN,203999,N. Jokić,Rebound,Unknown,,0.0,0.0,0.0,Jokic REBOUND (Off:1 Def:4),2026
+22500505,2,PT01M28.00S,,,HOU,201142,K. Durant,Foul,Shooting,,0.0,0.0,0.0,Durant S.FOUL (P1.T4) (C.Flores),2026
+22501063,4,PT05M53.00S,,,CHA,1628970,M. Bridges,Missed Shot,Jump Shot,Missed,-80.0,240.0,25.0,MISS Bridges 25' 3PT Jump Shot,2026
+22500663,1,PT12M00.00S,,,MIN,203497,R. Gobert,Jump Ball,,,0.0,0.0,0.0,Jump Ball Gobert vs. Post: Tip to Conley,2026
+22500511,4,PT10M24.00S,,,WAS,1628963,M. Bagley III,Turnover,Offensive Foul Turnover,,0.0,0.0,0.0,Bagley III Offensive Foul Turnover (P2.T12),2026
+22500154,4,PT02M26.00S,,,PHX,1642853,R. Fleming,Rebound,Unknown,,0.0,0.0,0.0,Fleming REBOUND (Off:0 Def:1),2026
+22500668,2,PT05M11.00S,38.0,44.0,DEN,1629618,J. Pickett,Made Shot,Pullup Jump shot,Made,-126.0,89.0,15.0,Pickett 15' Pullup Jump Shot (4 PTS) (Murray 4 AST),2026
+22500113,2,PT08M40.00S,,,SAC,201566,R. Westbrook,Rebound,Unknown,,0.0,0.0,0.0,Westbrook REBOUND (Off:2 Def:1),2026
+22500178,1,PT07M59.00S,,,DEN,1627750,J. Murray,Missed Shot,Tip Layup Shot,Missed,0.0,0.0,0.0,MISS Murray Tip Layup Shot,2026
+22500022,1,PT03M33.00S,,,TOR,1630572,S. Mamukelashvili,Turnover,Bad Pass,,0.0,0.0,0.0,Mamukelashvili Bad Pass Turnover (P1.T3),2026
+22500015,1,PT09M15.00S,6.0,11.0,OKC,1631119,J. Williams,Made Shot,Jump Shot,Made,-134.0,208.0,25.0,J. Williams 25' 3PT Jump Shot (6 PTS) (Wiggins 1 AST),2026
+22500075,1,PT04M10.00S,,,OKC,1631119,J. Williams,Foul,Personal,,0.0,0.0,0.0,Jay. Williams P.FOUL (P1.PN) (J.Capers),2026
+22500867,1,PT06M23.00S,,,UTA,1642846,A. Bailey,Rebound,Unknown,,0.0,0.0,0.0,Bailey REBOUND (Off:1 Def:2),2026
+22500544,1,PT05M29.00S,,,LAC,201935,J. Harden,Missed Shot,Driving Layup Shot,Missed,-23.0,57.0,6.0,MISS Harden 6' Driving Layup,2026
+22500295,2,PT09M36.00S,,,IND,204456,T. McConnell,Substitution,,,0.0,0.0,0.0,SUB: Nembhard FOR McConnell,2026
+22500593,4,PT03M09.00S,,,,1610612742,,Rebound,Unknown,,0.0,0.0,0.0,MAVERICKS Rebound,2026
+22500731,2,PT06M43.00S,,,SAC,1642875,M. Raynaud,Missed Shot,Jump Shot,Missed,86.0,234.0,25.0,MISS Raynaud 25' 3PT Jump Shot,2026
+22501032,2,PT04M52.00S,,,,1610612757,,Timeout,Regular,,0.0,0.0,0.0,Trail Blazers Timeout: Regular (Reg.2 Short 0),2026
+22500435,1,PT08M02.00S,,,ATL,1630552,J. Johnson,Foul,Shooting,,0.0,0.0,0.0,Johnson S.FOUL (P1.T2) (J.Goble),2026
+22500830,2,PT05M21.00S,,,UTA,1642262,C. Williams,Substitution,,,0.0,0.0,0.0,SUB: Markkanen FOR Williams,2026
+22500366,1,PT06M29.00S,,,NOP,1630530,T. Murphy III,,,,0.0,0.0,0.0,Murphy III STEAL (1 STL),2026
+22500684,3,PT08M38.00S,,,BKN,1629008,M. Porter Jr.,,,,0.0,0.0,0.0,Porter Jr. BLOCK (1 BLK),2026
+22500547,2,PT07M56.00S,,,UTA,201567,K. Love,Missed Shot,Tip Layup Shot,Missed,0.0,0.0,0.0,MISS Love Tip Layup Shot,2026
+22500679,2,PT02M44.00S,,,HOU,1631095,J. Smith Jr.,,,,0.0,0.0,0.0,Smith Jr. STEAL (1 STL),2026
+22500224,1,PT07M33.00S,,,DEN,1627750,J. Murray,Missed Shot,Running Reverse Layup Shot,Missed,-10.0,17.0,2.0,MISS Murray 2' Running Reverse Layup,2026
+22500770,2,PT10M54.00S,,,POR,201950,J. Holiday,Foul,Shooting,,0.0,0.0,0.0,Holiday S.FOUL (P2.T1) (N.Green),2026
+22500902,4,PT02M49.00S,,,GSW,1630611,G. Santos,Rebound,Unknown,,0.0,0.0,0.0,Santos REBOUND (Off:0 Def:3),2026
+22500052,3,PT03M03.00S,,,NOP,1630631,J. Alvarado,Foul,Personal,,0.0,0.0,0.0,Alvarado P.FOUL (P2.T4) (B.Kennedy),2026
+22500243,4,PT07M05.00S,88.0,94.0,LAC,101108,C. Paul,Made Shot,Pullup Jump shot,Made,62.0,254.0,26.0,Paul 26' 3PT Pullup Jump Shot (3 PTS),2026
+22500546,1,PT10M15.00S,,,DAL,1630230,N. Marshall,Free Throw,Free Throw 2 of 2,,0.0,0.0,0.0,MISS Marshall Free Throw 2 of 2,2026
+22500922,3,PT04M48.00S,74.0,63.0,NYK,1642885,M. Diawara,Free Throw,Free Throw 2 of 2,,0.0,0.0,0.0,Diawara Free Throw 2 of 2 (4 PTS),2026
+22500711,2,PT01M01.00S,,,OKC,1628392,I. Hartenstein,Foul,Loose Ball,,0.0,0.0,0.0,Hartenstein L.B.FOUL (P2.PN) (B.Schwab),2026
+22500489,1,PT00M35.90S,,,CHI,1628989,K. Huerter,Rebound,Unknown,,0.0,0.0,0.0,Huerter REBOUND (Off:0 Def:3),2026
+22501027,1,PT04M20.00S,13.0,23.0,HOU,1631106,T. Eason,Free Throw,Free Throw 2 of 2,,0.0,0.0,0.0,Eason Free Throw 2 of 2 (2 PTS),2026
+22500178,1,PT04M53.00S,,,DEN,1629661,C. Johnson,Missed Shot,Driving Layup Shot,Missed,7.0,17.0,2.0,MISS Johnson 2' Driving Layup,2026
+22500645,4,PT05M30.00S,,,,1610612766,,Rebound,Normal Rebound,,0.0,0.0,0.0,HORNETS Rebound,2026
+22500150,2,PT09M21.00S,,,CHA,1629012,C. Sexton,Rebound,Unknown,,0.0,0.0,0.0,Sexton REBOUND (Off:0 Def:1),2026
+22500779,1,PT00M28.60S,,,IND,1641738,K. Brown,Rebound,Unknown,,0.0,0.0,0.0,Brown REBOUND (Off:1 Def:2),2026
+22500886,1,PT05M27.00S,,,MIA,203952,A. Wiggins,Rebound,Unknown,,0.0,0.0,0.0,Wiggins REBOUND (Off:1 Def:3),2026
+22500519,1,PT01M35.00S,32.0,22.0,ATL,1631243,M. Gueye,Free Throw,Free Throw 1 of 2,,0.0,0.0,0.0,Gueye Free Throw 1 of 2 (3 PTS),2026
+22500823,1,PT04M40.00S,,,BOS,202696,N. Vučević,Foul,Shooting,,0.0,0.0,0.0,Vucevic S.FOUL (P1.T1) (C.Blair),2026
+22500009,4,PT08M34.00S,,,NYK,1628973,J. Brunson,Violation,Lane,,0.0,0.0,0.0,Lane,2026
+22501105,1,PT03M51.00S,21.0,26.0,WAS,1641731,B. Coulibaly,Free Throw,Free Throw 1 of 1,,0.0,0.0,0.0,Coulibaly Free Throw 1 of 1 (7 PTS),2026
+22500458,4,PT11M13.00S,,,PHI,1641737,A. Bona,Rebound,Unknown,,0.0,0.0,0.0,Bona REBOUND (Off:1 Def:3),2026
+22500055,4,PT01M15.00S,,,,1610612760,,Rebound,Unknown,,0.0,0.0,0.0,Thunder Rebound,2026
+22500017,2,PT07M17.00S,35.0,33.0,DET,1629750,J. Green,Made Shot,Jump Shot,Made,-237.0,37.0,24.0,Green 24' 3PT Jump Shot (3 PTS) (Cunningham 4 AST),2026
+22500101,1,PT03M41.00S,,,OKC,1631096,C. Holmgren,Rebound,Unknown,,0.0,0.0,0.0,Holmgren REBOUND (Off:1 Def:3),2026
+22500545,4,PT00M07.30S,,,SAS,1630577,J. Champagnie,,,,0.0,0.0,0.0,Champagnie BLOCK (1 BLK),2026
+22500391,2,PT03M49.00S,,,WAS,1642273,K. George,Missed Shot,Jump Shot,Missed,-134.0,226.0,26.0,MISS George 26' 3PT Jump Shot,2026
+22501042,1,PT06M38.00S,,,CHI,1631159,L. Miller,Rebound,Unknown,,0.0,0.0,0.0,Miller REBOUND (Off:1 Def:1),2026
+22500572,3,PT08M00.00S,,,PHI,1631133,J. Walker,Missed Shot,Jump Shot,Missed,-232.0,3.0,0.0,MISS Walker 3PT Jump Shot,2026
+22500893,1,PT08M22.00S,,,NYK,1628384,O. Anunoby,Rebound,Unknown,,0.0,0.0,0.0,Anunoby REBOUND (Off:0 Def:2),2026
+22500798,1,PT09M54.00S,,,PHX,1631221,C. Gillespie,Missed Shot,Pullup Jump shot,Missed,-240.0,-11.0,24.0,MISS Gillespie 24' 3PT Pullup Jump Shot,2026
